@@ -1,10 +1,13 @@
 # 远程工作岗位
 ----
+所有岗位每日更新在公众号  
 
+![qrcode_for_gh_6a0386a4d1a2_258](https://github.com/dianyacommunity/remote-work/assets/151907211/23814b39-9684-4d4b-ab83-ae65e969f2c5)
+
+----
 | 公司	| 岗位	|领域|	薪资待遇	|投递地址|	岗位要求|	备注 |
 | :-----| :----- | :----- | :-----| :----- | :----- |:----- |
 | AXEL | 前端开发 |  |  | JS岗位JD:https://eleduck.com/posts/Djfv5N |  | JavaScript Developer/DevOps Engineer/NodeJS Developer/iOS/Android |
-| --- | --- | --- | --- | --- | --- | --- |
 | T2T2 | 运营 |  | $1200 - $2000 / month | https://eleduck.com/posts/gYfg8m |  | 社区运营、投资经理 |
 | MEXC | 翻译 |  | 3500 - 4000USDT | https://eleduck.com/posts/yGfaz1 |  | 翻译 |
 | Aibt | 后端开发 | 区块链/WEB3 | $5,000 - $6,000 / 月 | https://eleduck.com/posts/njfgBV |  | Javascript Engineer/java开发 |
